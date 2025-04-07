@@ -1,0 +1,20 @@
+# Development files
+.github/
+coverage/
+src/__tests__/
+.eslintrc.js
+jest.config.js
+*.config.js
+
+# Build and dependency files
+node_modules/
+package-lock.json
+
+# Editor and OS files
+.DS_Store
+*.log
+*.swp
+
+# Git files (already ignored by npm by default)
+.git/
+.gitignore
