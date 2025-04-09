@@ -1,6 +1,6 @@
 {
     "name": "@lab4studio/postcss-px-to-rem",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "PostCSS plugin to convert px to rem/em with advanced syntax support",
     "main": "index.js",
     "exports": {
@@ -39,7 +39,7 @@
     "license": "MIT",
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/lab4studio/postcss-px-to-rem"
+      "url": "git+https://github.com/lab4studio/postcss-px-to-rem.git"
     },
     "bugs": {
       "url": "https://github.com/lab4studio/postcss-px-to-rem/issues"
