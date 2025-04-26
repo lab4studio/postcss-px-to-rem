@@ -1,5 +1,5 @@
-const { isMatch } = require('./matcher');
-const { toFixed } = require('./math');
+const { isMatch } = require('./isMatch');
+const { toFixed } = require('./toFixed');
 
 const defaults = {
     base: 16,

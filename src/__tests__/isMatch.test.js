@@ -1,4 +1,4 @@
-const { isMatch } = require('../utils/matcher');
+const { isMatch } = require('../utils/isMatch');
 
 describe('matcher', () => {
     it('should match rem() functions', () => {
