@@ -1,6 +1,6 @@
 {
   "name": "@lab4studio/postcss-px-to-rem",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "PostCSS plugin to convert px to rem/em with advanced syntax support",
   "main": "index.js",
   "exports": {
@@ -14,7 +14,7 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
-    "lint": "eslint ./src/**/*.js",
+    "lint": "eslint ./src/**/*.{js,jsx}",
     "prepublishOnly": "npm test && npm run lint"
   },
   "keywords": [
